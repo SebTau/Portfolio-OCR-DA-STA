@@ -65,7 +65,7 @@ Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisa
 <a href="Gantt.png">
   <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=plastic" alt="Diagramme de Gantt">
 </a>
-<br/>*Planning de réalisation du projet.*
+
 ---
 
 ### Me contacter
