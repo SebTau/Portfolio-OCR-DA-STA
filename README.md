@@ -30,7 +30,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 **Pour une expérience interactive :**
 
-➡️ **[Télécharger le rapport interactif (fichier .pbix)](Dashboard.pbix)**
+➡️ **[Télécharger le rapport interactif](Dashboard.pbix)**
 
 > **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Affichage > Thèmes > Parcourir les thèmes** et sélectionnez le fichier `theme_portfolio.json`.
 
@@ -45,7 +45,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 <br/><br/>
 
-<a href="Analyse%20du%20besoin%20client.pdf">
+<a href="Analyse-besoin-client.pptx">
   <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=for-the-badge" alt="Analyse du Besoin">
 </a>
 <br/>*Document de cadrage initial du projet.*
