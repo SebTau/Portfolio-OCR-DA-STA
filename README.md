@@ -24,6 +24,8 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
       <td align="center" valign="top">
         <img src="Dashboard profil.png" alt="Dashboard Profil & Compétences" width="400"/>
         <br/><br/>
+        <img src="Dashboard Tableau de bord de veille technologique.png" alt="Dashboard Veille Technologique" width="400"/>
+        <br/><br/>
         <em><a href="Dashboard.pbix">(Télécharger le rapport interactif .pbix)</a></em>
       </td>
       <td align="center" valign="top">
@@ -35,24 +37,18 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
         <a href="#">Consulter le Diagramme de Gantt</a>
       </td>
     </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="Dashboard Tableau de bord de veille technologique.png" alt="Dashboard Veille Technologique" width="400"/>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
 ---
 
 ### Me contacter
-<a href="[https://www.linkedin.com/in/sebastien-tauban-b520a816/](https://www.linkedin.com/in/s%C3%A9bastien-tauban-2462846/)">
+
+<a href="https://www.linkedin.com/in/sebastien-tauban-b520a816/">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="30">
 </a>
 &nbsp;&nbsp;
-<a href="LIEN_VERS_VOTRE_PROFIL_GITHUB_ICI">
+<a href="https://github.com/SebastienTauban">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
 </a>
 &nbsp;&nbsp;
