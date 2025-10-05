@@ -38,20 +38,33 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 #### Compétences Pédagogiques & Gestion de Projet
 
-<a href="Documentation-TDB-Veille.docx">
+Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complète.
+<a href="Documentation-TDB-Veille.pdf">
   <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=for-the-badge" alt="Documentation Technique">
 </a>
 <br/>*Procédure complète pour l'utilisation et la mise à jour du dashboard de veille.*
 
 <br/><br/>
 
-<a href="Analyse-besoin-client.pptx">
+---
+
+Tout projet commence par une analyse rigoureuse du besoin. Voici la présentation qui a servi de base au cadrage de ce portfolio.
+<a href="Analyse-besoin-client.pdf">
   <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=for-the-badge" alt="Analyse du Besoin">
 </a>
 <br/>*Document de cadrage initial du projet.*
 
 <br/><br/>
 
+La traduction du besoin en spécifications fonctionnelles est une étape clé. Ce cahier des charges formalise les objectifs et les livrables du projet.
+<a href="Cahier-charges-portfolio.pdf">
+  <img src="https://img.shields.io/badge/-Consulter%20le%20Cahier%20des%20Charges-ffc107?style=for-the-badge" alt="Cahier des Charges">
+</a>
+<br/>*Spécifications détaillées du projet de création du portfolio.*
+
+<br/><br/>
+
+La planification est essentielle à la réussite d'un projet. Ci-dessous, le diagramme de Gantt qui a structuré sa réalisation.
 <a href="Gantt.png">
   <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=for-the-badge" alt="Diagramme de Gantt">
 </a>
@@ -64,7 +77,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/SebastienTauban">
+<a href="[https://github.com/SebastienTauban](https://github.com/SebTau/Portfolio-OCR-DA-STA/tree/main)">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;&nbsp;
