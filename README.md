@@ -21,18 +21,26 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <a href="#">Voir le Dashboard Profil</a><br/><br/>
-        <a href="#">Voir le Dashboard Veille</a>
+      <td align="center" valign="top">
+        <img src="Dashboard profil.png" alt="Dashboard Profil & Compétences" width="400"/>
+        <br/><br/>
+        <em><a href="Dashboard.pbix">(Télécharger le rapport interactif .pbix)</a></em>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="#">Voir la Vidéo de Formation</a><br/><br/>
         <a href="#">Lire la Documentation Technique</a>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="#">Consulter l'Analyse du Besoin</a><br/><br/>
         <a href="#">Consulter le Diagramme de Gantt</a>
       </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="Dashboard Tableau de bord de veille technologique.png" alt="Dashboard Veille Technologique" width="400"/>
+      </td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
