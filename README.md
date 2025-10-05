@@ -30,7 +30,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 ➡️ **[Télécharger le rapport interactif (fichier .pbix)](Dashboard.pbix)**
 
-> **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Affichage > Thèmes > Parcourir les thèmes** et sélectionnez le fichier `theme_portfolio.json`.
+> **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Afficher > Thèmes > Rechercher des thèmes** et sélectionnez le fichier "theme_portfolio.json".
 
 ---
 
