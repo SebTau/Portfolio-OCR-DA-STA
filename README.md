@@ -11,47 +11,48 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
 ---
 
 ### Démonstration des Compétences
-<table>
-  <thead>
-    <tr>
-      <th align="center">Tableaux de Bord d'Analyse</th>
-      <th align="center">Compétences Pédagogiques</th>
-      <th align="center">Gestion de Projet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="Dashboard profil.png" alt="Dashboard Profil & Compétences" width="400"/>
-        <br/><br/>
-        <img src="Dashboard Tableau de bord de veille technologique.png" alt="Dashboard Veille Technologique" width="400"/>
-        <br/><br/>
-        <em><a href="Dashboard.pbix">(Télécharger le rapport interactif .pbix)</a></em>
-      </td>
-      <td align="center" valign="top">
-        <a href="#">Voir la Vidéo de Formation</a><br/><br/>
-        <a href="#">Lire la Documentation Technique</a>
-      </td>
-      <td align="center" valign="top">
-        <a href="#">Consulter l'Analyse du Besoin</a><br/><br/>
-        <a href="#">Consulter le Diagramme de Gantt</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+#### Tableaux de Bord d'Analyse
+
+Voici un aperçu des deux dashboards réalisés pour ce projet.
+
+* **Dashboard 1 : Profil & Compétences**
+    * *Cet aperçu montre une synthèse de mon profil technique et de mes projets clés.*
+![Dashboard Profil & Compétences](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20profil.png)
+
+* **Dashboard 2 : Veille Technologique**
+    * *Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
+![Dashboard Veille Technologique](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20Tableau%20de%20bord%20de%20veille%20technologique.png)
+
+<br/>
+
+**Pour une expérience interactive :**
+
+➡️ **[Télécharger le rapport interactif (fichier .pbix)](Dashboard.pbix)**
+
+> **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Affichage > Thèmes > Parcourir les thèmes** et sélectionnez le fichier `theme_portfolio.json`.
+
+---
+
+#### Compétences Pédagogiques & Gestion de Projet
+
+* **[Voir la Vidéo de Formation (à venir)]()** - *Présentation commentée du dashboard de veille.*
+* **[Lire la Documentation Technique](Documentation.pdf)** - *Procédure complète pour l'utilisation et la mise à jour du dashboard de veille.*
+* **[Consulter l'Analyse du Besoin](Analyse%20du%20besoin%20client.pdf)** - *Document de cadrage initial du projet.*
+* **[Consulter le Diagramme de Gantt](Gantt.png)** - *Planning de réalisation du projet.*
 
 ---
 
 ### Me contacter
 
 <a href="https://www.linkedin.com/in/sebastien-tauban-b520a816/">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="30">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/SebastienTauban">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sebastien.tauban@gmail.com">
-  <img src="https://static.cdnlogo.com/logos/g/24/gmail.svg" alt="Email" width="30">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
