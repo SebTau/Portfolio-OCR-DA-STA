@@ -38,11 +38,24 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 #### Compétences Pédagogiques & Gestion de Projet
 
-* **[Voir la Vidéo de Formation (à venir)]()** - *Présentation commentée du dashboard de veille.*
-* **[Lire la Documentation Technique](Documentation.pdf)** - *Procédure complète pour l'utilisation et la mise à jour du dashboard de veille.*
-* **[Consulter l'Analyse du Besoin](Analyse%20du%20besoin%20client.pdf)** - *Document de cadrage initial du projet.*
-* **[Consulter le Diagramme de Gantt](Gantt.png)** - *Planning de réalisation du projet.*
+<a href="Documentation.pdf">
+  <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=for-the-badge" alt="Documentation Technique">
+</a>
+<br/>*Procédure complète pour l'utilisation et la mise à jour du dashboard de veille.*
 
+<br/><br/>
+
+<a href="Analyse%20du%20besoin%20client.pdf">
+  <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=for-the-badge" alt="Analyse du Besoin">
+</a>
+<br/>*Document de cadrage initial du projet.*
+
+<br/><br/>
+
+<a href="Gantt.png">
+  <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=for-the-badge" alt="Diagramme de Gantt">
+</a>
+<br/>*Planning de réalisation du projet.*
 ---
 
 ### Me contacter
