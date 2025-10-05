@@ -70,14 +70,4 @@ Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisa
 
 ### Me contacter
 
-<a href="https://www.linkedin.com/in/sébastien-tauban-2462846/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="[https://github.com/SebastienTauban](https://github.com/SebTau/Portfolio-OCR-DA-STA/tree/main)">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:sebastien.tauban@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/sébastien-tauban-2462846/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://github.com/SebastienTauban"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;<a href="mailto:sebastien.tauban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
