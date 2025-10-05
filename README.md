@@ -38,7 +38,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 #### Compétences Pédagogiques & Gestion de Projet
 
-<a href="Documentation.pdf">
+<a href="Documentation-TDB-Veille.docx">
   <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=for-the-badge" alt="Documentation Technique">
 </a>
 <br/>*Procédure complète pour l'utilisation et la mise à jour du dashboard de veille.*
