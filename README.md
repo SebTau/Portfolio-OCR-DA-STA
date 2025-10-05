@@ -18,11 +18,11 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 * **Dashboard 1 : Profil & Compétences**
     * *Cet aperçu montre une synthèse de mon profil technique et de mes projets clés.*
-![Dashboard Profil & Compétences](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20profil.png)
+![Dashboard Profil & Compétences](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20profil.png?raw=true)
 
 * **Dashboard 2 : Veille Technologique**
     * *Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
-![Dashboard Veille Technologique](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20Tableau%20de%20bord%20de%20veille%20technologique.png)
+![Dashboard Veille Technologique](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20Tableau%20de%20bord%20de%20veille%20technologique.png?raw=true)
 
 <br/>
 
@@ -30,7 +30,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 ➡️ **[Télécharger le rapport interactif (fichier .pbix)](Dashboard.pbix)**
 
-> **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Afficher > Thèmes > Rechercher des thèmes** et sélectionnez le fichier "theme_portfolio.json".
+> **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Affichage > Thèmes > Parcourir les thèmes** et sélectionnez le fichier `theme_portfolio.json`.
 
 ---
 
@@ -45,7 +45,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 ### Me contacter
 
-<a href="https://www.linkedin.com/in/sebastien-tauban-b520a816/">
+<a href="https://www.linkedin.com/in/sébastien-tauban-2462846/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
