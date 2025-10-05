@@ -16,13 +16,15 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
 
 Voici un aperçu des deux dashboards réalisés pour ce projet.
 
-* **Dashboard 1 : Profil & Compétences**
-    * *Cet aperçu montre une synthèse de mon profil technique et de mes projets clés.*
-![Dashboard Profil & Compétences](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20profil.png?raw=true)
+**Dashboard 1 : Profil & Compétences**
+*Cet aperçu montre une synthèse de mon profil technique et de mes projets clés.*
 
-* **Dashboard 2 : Veille Technologique**
-    * *Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
-![Dashboard Veille Technologique](https://github.com/SebastienTauban/Portfolio-Data-Analyst-SebastienTauban/blob/main/Dashboard%20Tableau%20de%20bord%20de%20veille%20technologique.png?raw=true)
+![Dashboard Profil & Compétences](dashboard-profil.png)
+
+**Dashboard 2 : Veille Technologique**
+*Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
+
+![Dashboard Veille Technologique](dashboard-veille.png)
 
 <br/>
 
