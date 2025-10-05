@@ -40,7 +40,7 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
 ---
 
 ### Me contacter
-<a href="https://www.linkedin.com/in/sebastien-tauban-b520a816/">
+<a href="[https://www.linkedin.com/in/sebastien-tauban-b520a816/](https://www.linkedin.com/in/s%C3%A9bastien-tauban-2462846/)">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="30">
 </a>
 &nbsp;&nbsp;
