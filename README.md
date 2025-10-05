@@ -38,7 +38,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 #### Compétences Pédagogiques & Gestion de Projet
 
-Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complète pour l'utilisation et la mise à jour du dashboard de veille. <br>
+Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complète pour l'utilisation et la mise à jour du dashboard de veille. <br><br>
 <a href="Documentation-TDB-Veille.pdf">
   <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=plastic" alt="Documentation Technique">
 </a>
@@ -47,23 +47,21 @@ Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une do
 
 ---
 
-La présentation suivante sert de base au cadrage de ce portfolio.
+La présentation suivante sert de base au cadrage de ce portfolio.<br><br>
 <a href="Analyse-besoin-client.pdf">
-  <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=for-the-badge" alt="Analyse du Besoin">
+  <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=plastic" alt="Analyse du Besoin">
 </a>
-<br/>*Document de cadrage initial du projet.*
 
 <br/><br/>
 
-Ce cahier des charges formalise les objectifs et les livrables du projet.
+Ce cahier des charges formalise la traduction du besoin en spécifications fonctionnelles avec les objectifs et les livrables du projet.<br><br>
 <a href="Cahier-charges-portfolio.pdf">
-  <img src="https://img.shields.io/badge/-Consulter%20le%20Cahier%20des%20Charges-ffc107?style=for-the-badge" alt="Cahier des Charges">
+  <img src="https://img.shields.io/badge/-Consulter%20le%20Cahier%20des%20Charges-ffc107?style=plastic" alt="Cahier des Charges">
 </a>
-<br/>*Spécifications détaillées du projet de création du portfolio.*
 
 <br/><br/>
 
-La planification est essentielle à la réussite d'un projet. Ci-dessous, le diagramme de Gantt qui a structuré sa réalisation.
+Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisation du portfolio.
 <a href="Gantt.png">
   <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=for-the-badge" alt="Diagramme de Gantt">
 </a>
@@ -73,13 +71,13 @@ La planification est essentielle à la réussite d'un projet. Ci-dessous, le dia
 ### Me contacter
 
 <a href="https://www.linkedin.com/in/sébastien-tauban-2462846/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
 <a href="[https://github.com/SebastienTauban](https://github.com/SebTau/Portfolio-OCR-DA-STA/tree/main)">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sebastien.tauban@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
