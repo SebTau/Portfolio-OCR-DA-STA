@@ -34,7 +34,7 @@ Voici un aperçu des deux dashboards réalisés pour ce projet :
 
 > **Note :** Pour un affichage optimal des couleurs et du thème, merci d'importer le fichier de thème fourni. Dans Power BI, allez dans **Affichage > Thèmes > Parcourir les thèmes** et sélectionnez le fichier `theme_portfolio.json`.
 
----
+
 
 #### Compétences Pédagogiques & Gestion de Projet
 
@@ -45,7 +45,6 @@ Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une do
 
 <br/>
 
----
 
 La présentation suivante sert de base au cadrage de ce portfolio.<br><br>
 <a href="Analyse-besoin-client.pdf">
