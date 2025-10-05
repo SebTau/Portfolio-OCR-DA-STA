@@ -61,9 +61,9 @@ Ce cahier des charges formalise la traduction du besoin en spécifications fonct
 
 <br/><br/>
 
-Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisation du portfolio.
+Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisation du portfolio.<br><br>
 <a href="Gantt.png">
-  <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=for-the-badge" alt="Diagramme de Gantt">
+  <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=plastic" alt="Diagramme de Gantt">
 </a>
 <br/>*Planning de réalisation du projet.*
 ---
