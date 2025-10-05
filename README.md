@@ -14,13 +14,13 @@ Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'h
 
 #### Tableaux de Bord d'Analyse
 
-Voici un aperçu des deux dashboards réalisés pour ce projet.
+Voici un aperçu des deux dashboards réalisés pour ce projet :
 
 **Dashboard 1 : Profil & Compétences**
 *Cet aperçu montre une synthèse de mon profil technique et de mes projets clés.*
 
 ![Dashboard Profil & Compétences](dashboard-profil.png)
-
+<br><br>
 **Dashboard 2 : Veille Technologique**
 *Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
 
@@ -43,7 +43,7 @@ Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une do
   <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=plastic" alt="Documentation Technique">
 </a>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -52,14 +52,14 @@ La présentation suivante sert de base au cadrage de ce portfolio.<br><br>
   <img src="https://img.shields.io/badge/-Consulter%20l'Analyse%20du%20Besoin-28A745?style=plastic" alt="Analyse du Besoin">
 </a>
 
-<br/><br/>
+<br/>
 
 Ce cahier des charges formalise la traduction du besoin en spécifications fonctionnelles avec les objectifs et les livrables du projet.<br><br>
 <a href="Cahier-charges-portfolio.pdf">
   <img src="https://img.shields.io/badge/-Consulter%20le%20Cahier%20des%20Charges-ffc107?style=plastic" alt="Cahier des Charges">
 </a>
 
-<br/><br/>
+<br/>
 
 Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisation du portfolio.<br><br>
 <a href="Gantt.png">
