@@ -38,9 +38,9 @@ Voici un aperçu des deux dashboards réalisés pour ce projet.
 
 #### Compétences Pédagogiques & Gestion de Projet
 
-Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complètepour l'utilisation et la mise à jour du dashboard de veille.
+Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complète pour l'utilisation et la mise à jour du dashboard de veille. <br>
 <a href="Documentation-TDB-Veille.pdf">
-  <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=for-the-badge" alt="Documentation Technique">
+  <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=plastic" alt="Documentation Technique">
 </a>
 
 <br/><br/>
