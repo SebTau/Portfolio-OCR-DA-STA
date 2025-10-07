@@ -45,6 +45,11 @@ Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une do
 
 <br/>
 
+Pour démontrer ma capacité à former les utilisateurs, voici une courte vidéo de présentation du dashboard de veille.
+<br>
+[![Voir la Vidéo de Formation](https://img.shields.io/badge/-Voir%20la%20Vidéo%20de%20Formation-625BF7?style=plastic&logo=loom&logoColor=white)](https://www.loom.com/share/f515b872729546209bce694e188fc773)
+
+<br>
 
 La présentation suivante sert de base au cadrage de ce portfolio.<br><br>
 <a href="Analyse-besoin-client.pdf">
