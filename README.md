@@ -65,6 +65,9 @@ Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisa
   <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=plastic" alt="Diagramme de Gantt">
 </a>
 
+[![Voir la Vidéo de Formation](URL_de_l'image)]([URL_du_lien](https://www.loom.com/share/f515b872729546209bce694e188fc773?sid=6c192fad-4e67-4d5e-a514-4fb27771fe2b))
+
+
 ---
 
 ### Me contacter
