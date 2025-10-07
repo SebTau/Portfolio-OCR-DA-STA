@@ -45,8 +45,7 @@ Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une do
 
 <br/>
 
-Pour démontrer ma capacité à former les utilisateurs, voici une courte vidéo de présentation du dashboard de veille.
-<br>
+Pour démontrer ma capacité à former les utilisateurs, voici une courte vidéo de présentation du dashboard de veille.<br><br>
 [![Voir la Vidéo de Formation](https://img.shields.io/badge/-Voir%20la%20Vidéo%20de%20Formation-625BF7?style=plastic&logo=loom&logoColor=white)](https://www.loom.com/share/f515b872729546209bce694e188fc773)
 
 <br>
@@ -69,8 +68,6 @@ Ci-dessous, le diagramme de Gantt qui a permis la planification pour la réalisa
 <a href="Gantt.png">
   <img src="https://img.shields.io/badge/-Voir%20le%20Diagramme%20de%20Gantt-6c757d?style=plastic" alt="Diagramme de Gantt">
 </a>
-
-[![Voir la Vidéo de Formation](URL_de_l'image)]([URL_du_lien](https://www.loom.com/share/f515b872729546209bce694e188fc773?sid=6c192fad-4e67-4d5e-a514-4fb27771fe2b))
 
 
 ---
