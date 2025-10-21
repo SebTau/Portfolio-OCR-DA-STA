@@ -38,17 +38,6 @@ Voici un aperçu des deux dashboards réalisés pour ce projet :
 
 ## Compétences
 
-Pour assurer la pérennité et la prise en main de l'outil, j'ai rédigé une documentation utilisateur complète pour l'utilisation et la mise à jour du dashboard de veille. <br><br>
-<a href="Documentation-TDB-Veille.pdf">
-  <img src="https://img.shields.io/badge/-Lire%20la%20Documentation%20Technique-0077B5?style=plastic" alt="Documentation Technique">
-</a>
-
-<br/>
-
-Pour démontrer ma capacité à former les utilisateurs, voici une courte vidéo de présentation du dashboard de veille.<br><br>
-[![Voir la Vidéo de Formation](https://img.shields.io/badge/-Voir%20la%20Vidéo%20de%20Formation-625BF7?style=plastic&logo=loom&logoColor=white)](https://www.loom.com/share/f515b872729546209bce694e188fc773)
-
-<br>
 
 La présentation suivante sert de base au cadrage de ce portfolio.<br><br>
 <a href="Analyse-du-besoin-client.pdf">
