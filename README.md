@@ -3,18 +3,6 @@
 
 ---
 
-## Présentation
-Fort d'une solide expérience en gouvernance, gestion des risques et contrôle interne dans des environnements complexes et exigeants, j'ai orienté ma carrière vers l'analyse de données, convaincu que la maîtrise de la data est la clé pour piloter la performance et la conformité.
-
-Actuellement en formation de Data Analyst chez OpenClassRooms, je mets aujourd'hui mes compétences en SQL, Python et Power BI au service de la transformation de données brutes en informations stratégiques. Ce portfolio, conçu pour Aéroworld, démontre à travers des livrables concrets ma capacité à allier rigueur analytique et posture de conseil pour répondre à vos enjeux.
-
----
-
-# Sébastien Tauban
-## Data Analyst & Chef de Projet
-
----
-
 ### Présentation
 Fort d'une solide expérience en gouvernance, gestion des risques et contrôle interne dans des environnements complexes et exigeants, j'ai orienté ma carrière vers l'analyse de données, convaincu que la maîtrise de la data est la clé pour piloter la performance et la conformité.
 
