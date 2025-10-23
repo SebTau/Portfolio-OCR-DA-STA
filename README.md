@@ -49,7 +49,7 @@ Le cœur de la démonstration technique repose sur deux tableaux de bord réalis
 ### Accompagnement Utilisateur
 
 Un outil n'est utile que s'il est adopté. Pour faciliter la prise en main et assurer la pérennité :
-* **Vidéo de Formation :** Une courte présentation (2 min) du dashboard de veille.
+* **Vidéo de Formation :** Une courte présentation du dashboard de veille.
     <br>
     [![Voir la Vidéo de Formation](https://img.shields.io/badge/-Voir%20la%20Vidéo%20de%20Formation-625BF7?style=plastic&logo=loom&logoColor=white)](https://www.loom.com/share/f515b872729546209bce694e188fc773)
 * **Documentation Technique :** Une procédure détaillée pour l'utilisation et la mise à jour.
