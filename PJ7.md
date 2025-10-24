@@ -27,4 +27,4 @@ La mission consistait à agir en tant que consultant Data Analyst pour un client
 
 ---
 
-[Voir le Tableau de Bord Dynamique](VOTRE_LIEN_ICI_1)
+[Voir le Tableau de Bord Dynamique](https://github.com/SebTau/Portfolio-OCR-DA-STA/blob/main/PJ7_Tableau%20de%20bord.pbix)
