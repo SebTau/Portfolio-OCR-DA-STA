@@ -31,6 +31,14 @@ Le cœur de la démonstration technique repose sur deux tableaux de bord réalis
 
 ![Dashboard Profil & Compétences](dashboard-profil.png?raw=true)
 
+<br>
+
+*Ci-dessous le détail des trois projets :*
+<br>
+[![Détails Projet 5 : Base de Données SQL](https://img.shields.io/badge/Projet_5-Base_de_Données_SQL-blue?style=plastic)](PJ5.md)&nbsp;&nbsp;[![Détails Projet 7 : Dashboard Power BI](https://img.shields.io/badge/Projet_7-Dashboard_Power_BI-orange?style=plastic)](PJ7.md)&nbsp;&nbsp;[![Détails Projet 11 : Étude de Marché](https://img.shields.io/badge/Projet_11-Étude_de_Marché-green?style=plastic)](PJ11.md)
+
+<br>
+
 **Dashboard 2 : Veille Technologique**
 *Ce dashboard fonctionnel permet de suivre et filtrer les dernières tendances du monde de la data.*
 
